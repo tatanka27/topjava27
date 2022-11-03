@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd1b66502f154440b31b65c5c3451f03)](https://www.codacy.com/gh/tatanka27/topjava27/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tatanka27/topjava27&amp;utm_campaign=Badge_Grade)
+
 Java Enterprise Online Project
 ===============================
 
